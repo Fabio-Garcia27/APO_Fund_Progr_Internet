@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f0da829-c437-47ae-a960-0cfa0736df41" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/js/jquery-3.7.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Funções_PHP.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista_Tabelas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modelos_TAGS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_teste.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teste_If_Else.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teste_array.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teste_array_diff.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teste_cabeçalho.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teste_for_while_dowhile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teste_rodapé.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teste_strlen_substr_str_replace.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teste_switch_case.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../action_page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cabeçalho.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formularios.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projeto_APO_Web" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projeto_APO_Web" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_dados_clientes.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_dados_clientes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/JavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/JavaScript.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Fabio-Garcia27&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Fabio-Garcia27/PHP.Repositorio.git&quot;,
+    &quot;accountId&quot;: &quot;ea60003e-57e6-4053-a05f-d21bddfdaa8c&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/js/JavaScript.js" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2wT2NxmAfucRVTF2ydUIyoUiSgu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/xampp/htdocs/primeiro_exemplo/APO_Fund_Progr_Internet/js&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\primeiro_exemplo\APO_Fund_Progr_Internet\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/APO_Fund_Progr_Internet/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PS-251.23774.466" />
+        <option value="bundled-php-predefined-a98d8de5180a-aaeaa8632555-com.jetbrains.php.sharedIndexes-PS-251.23774.466" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f0da829-c437-47ae-a960-0cfa0736df41" name="Changes" comment="" />
+      <created>1746051206663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746051206663</updated>
+      <workItem from="1746051207768" duration="3263000" />
+      <workItem from="1746054618979" duration="907000" />
+      <workItem from="1746060570478" duration="79000" />
+      <workItem from="1746460916820" duration="798000" />
+      <workItem from="1746461751433" duration="8044000" />
+      <workItem from="1746471692478" duration="2069000" />
+      <workItem from="1746485093561" duration="1770000" />
+      <workItem from="1746490704724" duration="1614000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
